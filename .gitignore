@@ -85,6 +85,6 @@ bower_components/
 
 build/
 dist/
-bundle/
+# bundle/
 ### JSDoc template
 docs/
