@@ -31,7 +31,7 @@ const config = {
     },
     plugins: [
         new htmlWebpackPlugin({
-            filename: "index.[fullhash].html", //Nombre del archivo HTML en el bundle
+            filename: "index.html", //Nombre del archivo HTML en el bundle
             template: "src/index.html" //Ruta del archivo HTML
         }),
         new miniCSS({
