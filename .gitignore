@@ -85,6 +85,6 @@ bower_components/
 
 build/
 dist/
-#bundle/ Se necesita para publicar la aplicación
+bundle/
 ### JSDoc template
-docs/
+#docs/ Se hace copia de los archivos en bundle para poder publicarla en GitHub
