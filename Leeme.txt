@@ -1,0 +1,2 @@
+Conversión a Webpack de la aplicación Lista-tareas que se encuentra en 
+Desarrollo Aplicaciones Web\HTML-CSS\05-Desarrollo de Aplicaciones Web\Ejercicio07_lista-tareas
